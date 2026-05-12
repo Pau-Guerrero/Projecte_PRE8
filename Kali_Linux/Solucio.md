@@ -5,7 +5,7 @@
 ### Què fer
 - Configura la VM de Kali en **Adaptador pont (Bridge)**.
 - Configura la xarxa de Kali en **DHCP** (IP automàtica).
-- Mira les dades de xarxa (per saber què posar després als comandaments):
+- Mira les dades de xarxa :
 
 ```bash
 ip -br a

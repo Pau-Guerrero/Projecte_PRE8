@@ -123,3 +123,8 @@ En mode actiu, netdiscover funciona com si “preguntés” per la xarxa: envia 
 
 En mode passiu, netdiscover fa el contrari: no envia res, només es queda escoltant el que passa a la xarxa. Això vol dir que els dispositius només apareixen si en aquell moment estan generant trànsit, i per això sovint surten menys equips o triguen més a sortir.
 
+
+
+
+
+

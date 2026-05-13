@@ -1,4 +1,4 @@
-# Guia bàsica de configuració de Samba en Linux (Zorin)
+# Guia - Pau Guerrero
 
 # 1. Instal·lació i preparació
 

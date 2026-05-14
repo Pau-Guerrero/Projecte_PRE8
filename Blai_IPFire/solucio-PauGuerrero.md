@@ -1,3 +1,4 @@
+# GUIA IP FIRE - Pau Guerrero
 ### Exercici 1
 
 Aquí instal·laràs les **llistes negres** perquè el Filtre d’URL tingui categories per bloquejar webs.   
